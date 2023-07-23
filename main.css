@@ -740,12 +740,12 @@ body {
     -webkit-transform: rotate(270deg);
     transform: rotate(270deg);
 }
-.base-editor .base-editor .wp-block-quote {
+.base-editor .wp-block-quote {
     margin: 35px 0;
     padding: 5px 0 5px 35px;
     border-left: 3px solid #1e8baf;
 }
-.base-editor .base-editor .wp-block-quote p {
+.base-editor .wp-block-quote p {
     font-size: 1.25rem;
     line-height: 140%;
     font-style: italic;
@@ -753,7 +753,7 @@ body {
     color: #1e8baf;
 }
 @media (max-width: 767px) {
-    .base-editor .base-editor .wp-block-quote p {
+    .base-editor .wp-block-quote p {
         font-size: 1.125rem;
     }
 }
